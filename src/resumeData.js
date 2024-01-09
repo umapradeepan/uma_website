@@ -35,6 +35,16 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Gelber Group",
+        "specialization":"Software Engineer",
+        "MonthOfLeaving":"Fall 2023 - current",
+        "YearOfLeaving":"",
+        "Achievements":[
+          "- Aided in increasing reliability and modernizing existing service providing product definitions by integrating Kafka", 
+          "- Devised novel priority queue implementation which enabled prioritization of request processing, result in memory usage and compute improvement of nearly 10x"
+        ]
+      },
+      {
         "CompanyName":"Meta",
         "specialization":"Software Engineer",
         "MonthOfLeaving":"Summer 2022 - Summer 2023",
