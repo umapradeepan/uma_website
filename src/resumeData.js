@@ -41,7 +41,7 @@ let resumeData = {
         "YearOfLeaving":"",
         "Achievements":[
           "- Aided in increasing reliability and modernizing existing service providing product definitions by integrating Kafka", 
-          "- Devised novel priority queue implementation which enabled prioritization of request processing, result in memory usage and compute improvement of nearly 10x"
+          "- Devised novel priority queue implementation which enabled prioritization of request processing, result in memory usage and compute improvement of nearly 10x in C#"
         ]
       },
       {
