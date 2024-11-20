@@ -42,7 +42,7 @@ let resumeData = {
         "Achievements":[
           "- Successfully performed robotic HoLep procedure on cadaver using the system diagnostics framework I own, the primary line of defense for patient safety.",
           "- 0->1 Jenkins server creation and deployment on AWS, integrated with Github for viewing containerized integration test results.",
-          "- Successsfully implemented rearchitecture from request-response to declarative API for orchestrating system state."
+          "- Successfully implemented rearchitecture from request-response to declarative API for orchestrating system state."
         ]
       },
       {
