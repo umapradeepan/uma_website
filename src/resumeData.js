@@ -3,8 +3,8 @@ let resumeData = {
     "name": "Uma Pradeepan",
     "role": "Software Engineer",
     "linkedinId":"uma2000", // TODO: remove unused
-    "roleDescription": "Since graduating from Carnegie Mellon's School of Computer Science, I have been lucky to get to work alongside motivated, smart people at Meta on their distributed caching framework, a trading company in Chicago, and at a YC backed seed stage surgical robotics startup.",
-    "socialLinks":[
+    "roleDescription": "Since graduating from Carnegie Mellon's School of Computer Science, I have been lucky to get to work alongside motivated, smart people at Meta on their distributed caching framework, at an established trading company in Chicago, and at a YC backed seed stage surgical robotics startup.",
+    "socialLinks":[n 
         {
           "name":"linkedin",
           "url":"https://www.linkedin.com/in/uma2000/",
@@ -30,10 +30,21 @@ let resumeData = {
         "specialization":"B.S. in Computer Science, Statistics and Machine Learning",
         "MonthOfPassing":"May",
         "YearOfPassing":"2022",
-        "Achievements":"* Graduate with School of Computer Science Honors"
+        "Achievements":"* Graduated with School of Computer Science Honors"
       }
     ],
     "work":[
+      {
+        "CompanyName":"Andromeda Surgical (YC S23)",
+        "specialization":"Software Engineer",
+        "MonthOfLeaving":"Fall 2024 - current",
+        "YearOfLeaving":"",
+        "Achievements":[
+          "- Successfully performed robotic HoLep procedure on cadaver using the system diagnostics framework I own, the primary line of defense for patient safety.",
+          "- 0->1 Jenkins server creation and deployment on AWS, integrated with Github for viewing containerized integration test results.",
+          "- Successsfully implemented rearchitecture from request-response to declarative API for orchestrating system state."
+        ]
+      },
       {
         "CompanyName":"Gelber Group",
         "specialization":"Software Engineer",
