@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Uma Pradeepan",
     "role": "Software Engineer",
     "linkedinId":"uma2000", // TODO: remove unused
-    "roleDescription": " I've enjoyed exploring widely varying subdomains in professional settings including machine full stack development, machine learning, and caching. In my free time I like to learn about new technologies, connect with friends, and play phone games.",
+    "roleDescription": " I've enjoyed exploring widely varying subdomains in professional settings including robotics, full stack development, machine learning, and caching. In my free time I like to learn about new technologies, connect with friends, and play phone games.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -21,7 +21,7 @@ let resumeData = {
           "className":"fa fa-envelope"
         }
       ],
-    "aboutme":" I am currently seeking software engineering roles where I can build on my internship experiences plus a year of post grad experience. Since graduating from Carnegie Mellon with my B.S. in Computer Science, Statistics and Machine Learning, I've most interested in full stack and machine learning roles. Feel free to reach out via phone or email!",
+    "aboutme":"Since graduating from Carnegie Mellon's School of Computer Science, I have been lucky to get to work alongside motivated, smart people at Meta on their distributed caching framework, a trading company in Chicago, and at a YC backed seed stage surgical robotics startup.",
     "address":"umapradeepan@gmail.com",
     "website":"+1 847-852-0070",
     "education":[
@@ -37,11 +37,12 @@ let resumeData = {
       {
         "CompanyName":"Gelber Group",
         "specialization":"Software Engineer",
-        "MonthOfLeaving":"Fall 2023 - current",
+        "MonthOfLeaving":"Fall 2023 - Fall 2024",
         "YearOfLeaving":"",
         "Achievements":[
-          "- Aided in increasing reliability and modernizing existing service providing product definitions by integrating Kafka", 
-          "- Devised novel priority queue implementation which enabled prioritization of request processing, result in memory usage and compute improvement of nearly 10x in C#"
+          "- 10x memory and compute improvement by devising novel PQ implementation in request processing fixture.",
+          "- Owned trade definition server rearchitecture, integrating Dataflow C# data pipelining + task parallelization library in order to make parallelization parameters easily configurable.",
+          "- Integrated Kafka into existing product definition server to modernize and increase reliability."
         ]
       },
       {
@@ -50,7 +51,7 @@ let resumeData = {
         "MonthOfLeaving":"Summer 2022 - Summer 2023",
         "YearOfLeaving":"",
         "Achievements":[
-          "- Redesigned, implemented, and tested Meta’s distributed caching framework through which all Instagram cache calls are routed, in Python.", 
+          "- Redesigned, implemented, and tested Meta’s distributed caching framework (through which all Instagram cache calls are routed! think: high throughput).", 
           "- Oversaw and manually migrated all of the ~70 cache use cases to the newly defined Python cache API. Collaborated with various teams to complete migrations and monitored various benchmarking stats to ensure safety of high throughput migrations.", 
           "- Wrote a codemod script to analyze the file structure of a cache use case and automatically generate changes required to abide by privacy-safe cache implementation in PHP, to instantly perform ~120 migrations saving months of manual work."
         ]
@@ -61,8 +62,8 @@ let resumeData = {
         "MonthOfLeaving":"Summer 2021",
         "YearOfLeaving":"",
         "Achievements":[
-          "- Worked within Agile environment using React.js and GraphQL to load, display and provide various functionalities to reports, for small business segment using Quickbooks Online",
-          "- Collaborated with project managers to add sorting and filtering functionalities to existing table displaying insurance options",
+          "- Worked within Agile environment using React.js and GraphQL to load, display and provide various functionalities to reports, for small business segment using Quickbooks Online.",
+          "- Collaborated with project managers to add sorting and filtering functionalities to existing table displaying insurance options.",
         ]
       },
       {
@@ -76,7 +77,7 @@ let resumeData = {
         ]
       },
     ],
-    "skillsDescription":"AWS, C, C++, Hack, Java, Javascript, React, PHP, Python, PyTorch, DeepSpeed, Django, Go, R",
+    "skillsDescription":"AWS, C, C++, DeepSpeed, Django, Go, Java, Javascript, Lit, PHP, Python, PyTorch, R, React, ROS2, Streamlit",
     // "skills":[
     //   {
     //     "skillname":"HTML5"
@@ -90,16 +91,16 @@ let resumeData = {
     // ],
     "portfolio":[
       {
-        "name":"Automated Stock Trading Bot",
-        "description":"Personal project coded in Python, using Alpaca API for brokering trades, and Yahoo Finance API for sourcing market data.",
-        "imgurl":"images/stocktrading.png",
-        "projecturl": "https://github.com/umapradeepan/trading_bot"
-      },
-      {
         "name":"National Park Service Kiosk",
         "description":"A winner of Capital One's Software Engineer Challenge amongst hundreds of submissions across the country.",
         "imgurl":"images/nps_kiosk.png",
         "projecturl": "https://github.com/umapradeepan/National-Park-Service-Django-Python-Website"
+      },
+      {
+        "name":"Automated Stock Trading Bot",
+        "description":"Personal project coded in Python, using Alpaca API for brokering trades, and Yahoo Finance API for sourcing market data.",
+        "imgurl":"images/stocktrading.png",
+        "projecturl": "https://github.com/umapradeepan/trading_bot"
       },
       {
         "name":"This website!",
