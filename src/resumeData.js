@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Uma Pradeepan",
     "role": "Software Engineer",
     "linkedinId":"uma2000", // TODO: remove unused
-    "roleDescription": " I've enjoyed exploring widely varying subdomains in professional settings including robotics, full stack development, machine learning, and caching. In my free time I like to learn about new technologies, connect with friends, and play phone games.",
+    "roleDescription": "Since graduating from Carnegie Mellon's School of Computer Science, I have been lucky to get to work alongside motivated, smart people at Meta on their distributed caching framework, a trading company in Chicago, and at a YC backed seed stage surgical robotics startup.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -21,7 +21,7 @@ let resumeData = {
           "className":"fa fa-envelope"
         }
       ],
-    "aboutme":"Since graduating from Carnegie Mellon's School of Computer Science, I have been lucky to get to work alongside motivated, smart people at Meta on their distributed caching framework, a trading company in Chicago, and at a YC backed seed stage surgical robotics startup.",
+    "aboutme":"",
     "address":"umapradeepan@gmail.com",
     "website":"+1 847-852-0070",
     "education":[
