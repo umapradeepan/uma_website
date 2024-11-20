@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Software Engineer",
     "linkedinId":"uma2000", // TODO: remove unused
     "roleDescription": "Since graduating from Carnegie Mellon's School of Computer Science, I have been lucky to get to work alongside motivated, smart people at Meta on their distributed caching framework, at an established trading company in Chicago, and at a YC backed seed stage surgical robotics startup.",
-    "socialLinks":[n 
+    "socialLinks":[ 
         {
           "name":"linkedin",
           "url":"https://www.linkedin.com/in/uma2000/",
